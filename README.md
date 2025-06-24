@@ -54,4 +54,4 @@ big { font-size: 110%; }
 
 ## License
 
-This project is for educational purposes.
+Ths project is for educational purposes.
